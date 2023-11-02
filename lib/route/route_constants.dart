@@ -1,0 +1,33 @@
+class RouteList {
+  RouteList._();
+  static const String initial = '/';
+  static const String language = '/language';
+  static const String authScreen = '/authScreen';
+  static const String forgotPasswordScreen = '/forgotPasswordScreen';
+  static const String sendEmailCodeScreen = '/sendEmailCodeScreen';
+  static const String createPasswordScreen = '/createPasswordScreen';
+  static const String checkCodeScreen = '/checkCodeScreen';
+  static const String createCardScreen = '/createCardScreen';
+  static const String tariffScreen = '/tariffScreen';
+  static const String deployImageScreen = '/deployImageScreen';
+  static const String successImageScreen = '/successImageScreen';
+  static const String checkScreen = '/checkScreen';
+  static const String mainScreen = '/mainScreen';
+  static const String webViewScreen = '/webViewScreen';
+  static const String lessonScreen = '/lessonScreen';
+  static const String privacyPolicyScreen = '/privacyPolicyScreen';
+  static const String advantagesTariffScreen = '/advantagesTariffScreen';
+  static const String testScreen = '/testScreen';
+  static const String chartScreen = '/chartScreen';
+  static const String infoScreen = '/infoScreen';
+  static const String editeProfileScreen = '/editeProfileScreen';
+  static const String reviewScreen = '/reviewScreen';
+  static const String categoriesScreen = '/categoriesScreen';
+  static const String orderScreen = '/orderScreen';
+  static const String couponMainScreen = '/couponMainScreen';
+  static const String testSuccessScreen = '/testSuccessScreen';
+  static const String todoUp = '/todoUp';
+  static const String level = '/level';
+  static const String bookList = '/bookList';
+  static const String book = '/book';
+ }

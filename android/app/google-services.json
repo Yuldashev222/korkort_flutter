@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "850996223699",
+    "project_id": "lattmedkorkort",
+    "storage_bucket": "lattmedkorkort.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850996223699:android:aeda039f491436ecab7e26",
+        "android_client_info": {
+          "package_name": "com.lattmedkorkort.lattmedkorkort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850996223699-mcmdis7a02v526r7qoq1r2cmka8r9v4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lattmedkorkort.lattmedkorkort",
+            "certificate_hash": "d1124be55701a4f4f283fe383462545c473a4ef9"
+          }
+        },
+        {
+          "client_id": "850996223699-v573584r8neb2mnog1on6bjoc3s4j57l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9y9hlKPFs-_9tKTNEhYaFcMNJfPoxIjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850996223699-v573584r8neb2mnog1on6bjoc3s4j57l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850996223699-ucfjpm8kk2dliuec5k6nj032r11aiser.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lattmedkorkort.lattmedkorkort"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
